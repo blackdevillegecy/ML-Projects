@@ -12,5 +12,7 @@
 - Artificial Neural Network
 - Convolutional Neural Network
 - Anomaly Detection
+- GAN
+- AutoEncoders
 
 NOTE: There is a project (Credit Card Fraud Detection) which couldn't be uploaded due to huge size of dataset. The code is uploaded.
